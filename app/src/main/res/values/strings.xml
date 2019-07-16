@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="title">Title</string>
+    <string name="year">year</string>
+    <string name="genre">genre</string>
+    <string name="Title">Enter Title</string>
+    <string name="Genre">Enter Genre</string>
+    <string name="Year">Enter Year</string>
+    <string name="rated">Enter Rated</string>
+    <string name="theatre">Enter Theatre</string>
+    <string name="description">Enter Description</string>
+    <string name="add">ADD</string>
+</resources>

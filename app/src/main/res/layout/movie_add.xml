@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/editTextTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter Title"
+        android:inputType="textPersonName"
+        android:text="Name"
+        tools:text="@string/Title" />
+
+    <EditText
+        android:id="@+id/editTextYear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter Year"
+        android:inputType="textPersonName"
+        android:text="Name"
+        tools:text="@string/Year" />
+
+    <EditText
+        android:id="@+id/editTextGenre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter Genre"
+        android:inputType="textPersonName"
+        android:text="Name"
+        tools:text="@string/Genre" />
+
+    <EditText
+        android:id="@+id/editTextRated"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Entre Rated"
+        android:inputType="textPersonName"
+        android:text="Name"
+        tools:text="@string/rated" />
+
+    <EditText
+        android:id="@+id/editTextTheatre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter Theatre"
+        android:inputType="textPersonName"
+        android:text="Name"
+        tools:text="@string/theatre" />
+
+    <EditText
+        android:id="@+id/editTextDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Entre Description"
+        android:inputType="textPersonName"
+        android:text="Name"
+        tools:text="@string/description" />
+
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="add"
+        tools:text="@string/add" />
+
+</LinearLayout>
